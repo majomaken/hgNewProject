@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace HouseGaming\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
