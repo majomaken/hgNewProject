@@ -1,4 +1,4 @@
-## About Sigres
+## About HouseGaming
 
 This is repo for new proyect HG dashboard administration for LAN CENTERS
 
