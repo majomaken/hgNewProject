@@ -9,4 +9,4 @@ This is repo for new proyect HG dashboard administration for LAN CENTERS
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Sigres, please send an e-mail to Luis De la hoz via [luisdelahoz0@gmail.com](mailto:luisdelahoz0@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within HouseGaming, please send an e-mail to Luis De la hoz via [luisdelahoz0@gmail.com](mailto:luisdelahoz0@gmail.com). All security vulnerabilities will be promptly addressed.
